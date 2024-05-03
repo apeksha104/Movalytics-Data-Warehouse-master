@@ -5,7 +5,7 @@ LABEL Alan <alanchn31@gmail.com>
 ENV DEBIAN_FRONTEND noninteractive
 ENV TERM linux
 
-# Airflow
+#Airflow 
 ARG AIRFLOW_VERSION=1.10.9
 ARG AIRFLOW_USER_HOME=/usr/local/airflow
 ARG AIRFLOW_DEPS=""
