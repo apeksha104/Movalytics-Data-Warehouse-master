@@ -1,5 +1,5 @@
 FROM gettyimages/spark:latest
-LABEL Apeksha <alanchn31@gmail.com>
+LABEL Apeksha <apek**@gmail.com>
 
 # Never prompts the user for choices on installation/configuration of packages
 ENV DEBIAN_FRONTEND noninteractive
